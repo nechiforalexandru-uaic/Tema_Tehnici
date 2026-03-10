@@ -1,0 +1,7 @@
+D:\ProgrameTAP\Tema_Lab_3\ECommerceSystem\ECommerceSystem\bin\Debug\ECommerceSystem.exe.config
+D:\ProgrameTAP\Tema_Lab_3\ECommerceSystem\ECommerceSystem\bin\Debug\ECommerceSystem.exe
+D:\ProgrameTAP\Tema_Lab_3\ECommerceSystem\ECommerceSystem\bin\Debug\ECommerceSystem.pdb
+D:\ProgrameTAP\Tema_Lab_3\ECommerceSystem\ECommerceSystem\obj\Debug\ECommerceSystem.csproj.AssemblyReference.cache
+D:\ProgrameTAP\Tema_Lab_3\ECommerceSystem\ECommerceSystem\obj\Debug\ECommerceSystem.csproj.CoreCompileInputs.cache
+D:\ProgrameTAP\Tema_Lab_3\ECommerceSystem\ECommerceSystem\obj\Debug\ECommerceSystem.exe
+D:\ProgrameTAP\Tema_Lab_3\ECommerceSystem\ECommerceSystem\obj\Debug\ECommerceSystem.pdb
