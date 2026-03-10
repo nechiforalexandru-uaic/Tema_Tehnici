@@ -1,0 +1,17 @@
+﻿using System;
+
+namespace ECommerceSystem.Discounts
+{
+    public class NoDiscount : IDiscountStrategy
+    {
+        public decimal ApplyDiscount(decimal amount)
+        {
+            return amount;
+        }
+
+        public string GetDiscountDescription()
+        {
+            return "No discount";
+        }
+    }
+}
